@@ -1,0 +1,15 @@
+{
+  "name": "step00helloworld",
+  "version": "1.0.0",
+  "description": "typescript 45 assignment qeestion.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mairaj Ansari",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
